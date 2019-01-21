@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Course Description
 
-You can use the [editor on GitHub](https://github.com/nerdcommander/reproducible/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Why do some experiments and studies fail to replicate in the sciences? This course will explore, using an interdisciplinary approach, reproducibility crises, advances, and perspectives affecting research in the behavioral and neural sciences, with a focus on past and recent research in areas of psychology, neuroscience, and biology. Students will learn about high-profile examples of failures to replicate research results that have important consequences for assumptions about human behavior (e.g., what varies across time, context, and within or between individuals), the efficacy of drug and medical treatments (e.g., clinical trials involving cancer research), and, how failures to replicate are shaping new research practices, scientific methods, as well as debates about the accuracy and generalizability of research results. Students will learn how to evaluate replication-oriented research, design and conduct replication experiments and studies, and, propose a replication project that addresses modern reproducibility practices and techniques as a way to integrate their learning and apply course content and skills. This course is recommended for anyone interested in learning about current issues and trends in scientific training and research that are reshaping what we think we know about people, behavior, and health. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nerdcommander/reproducible/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Reference List
