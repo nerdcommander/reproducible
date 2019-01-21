@@ -4,3 +4,6 @@ Why do some experiments and studies fail to replicate in the sciences? This cour
 
 
 # Reference List
+
+test reference 1  
+test reference 2  
