@@ -5,5 +5,5 @@ Why do some experiments and studies fail to replicate in the sciences? This cour
 
 # Reference List
 
-test reference 1  
-test reference 2  
+- Baker M. 1,500 scientists lift the lid on reproducibility. Nature. 2016 May 26;533(7604):452-4. doi: 10.1038/533452a
+- Button KS, Ioannidis JP, Mokrysz C, Nosek BA, Flint J, Robinson ES, Munafò MR. Power failure: why small sample size undermines the reliability of neuroscience. Nat Rev Neurosci. 2013 May;14(5):365-76. doi: 10.1038/nrn3475
